@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.patreos98.andor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.patreos98.andor.MyBundle
 
 class MyApplicationService {
 
